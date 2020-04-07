@@ -1,0 +1,20 @@
+{
+  "name": "master-webpack",
+  "version": "1.0.0",
+  "description": "精通，熟练使用webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcto/master-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcto/master-webpack/issues"
+  },
+  "homepage": "https://github.com/jcto/master-webpack#readme"
+}
