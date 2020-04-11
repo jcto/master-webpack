@@ -56,3 +56,25 @@ npm install --save-dev file-loader
 - 使用loader
 - 使用plugin
 
+## 第二步 最佳实战
+
+### 相关loader
+- babel-loader
+- css-loader
+- file-loader
+- postcss-loader
+- resolve-url-loader
+- sass-loader
+- style-loader
+- url-loader
+  
+### 相关plugin
+- webpack-manifest-plugin
+- workbox-webpack-plugin
+- terser-webpack-plugin
+- pnp-webpack-plugin
+- optimize-css-assets-webpack-plugin
+- mini-css-extract-plugin
+- html-webpack-plugin
+- case-sensitive-paths-webpack-plugin
+- @typescript-eslint/eslint-plugin
