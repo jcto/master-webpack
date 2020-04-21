@@ -4,7 +4,9 @@
   "description": "精通，熟练使用webpack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "webpack --config webpack.config.js",
+    "dev":"webpack --config webpack.config.dev.js",
+    "build":"webpack --config webpack.config.prod.js"
   },
   "repository": {
     "type": "git",
